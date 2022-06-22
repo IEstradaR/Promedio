@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Starboy
+ * @author Starboy men
  */
 public class Promedio {
 
